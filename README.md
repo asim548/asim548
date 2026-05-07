@@ -9,11 +9,27 @@
   I build clean, responsive, and user-focused web applications.
 </p>
 
+<p align="center">
+  📍 Islamabad, Pakistan &nbsp; • &nbsp; 📧 asimshehzad7065@gmail.com
+</p>
+
 ## Connect with me
 
 <p>
   <a href="https://github.com/asim548">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://my-portfolio-alpha-kohl-69.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.fiverr.com/s/kLPammN">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~014fedc448b9c0cd4d?mp_source=share">
+    <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
+  </a>
+  <a href="mailto:asimshehzad7065@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -28,15 +44,31 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asim548&theme=tokyonight" alt="GitHub streak" />
 </p>
 
-## Tech Stack
+## Skills
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<p align="left">
+  <img src="https://img.shields.io/badge/MERN%20Stack-1F6FEB?style=for-the-badge&logo=mongodb&logoColor=white" alt="MERN Stack" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Development-1F6FEB?style=for-the-badge" alt="Full-Stack Development" />
+  <img src="https://img.shields.io/badge/JavaScript-1F6FEB?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-1F6FEB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-1F6FEB?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-1F6FEB?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/React.js-1F6FEB?style=for-the-badge&logo=react&logoColor=white" alt="React.js" />
+  <img src="https://img.shields.io/badge/Next.js-1F6FEB?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-1F6FEB?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-1F6FEB?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-1F6FEB?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/HTML%2FCSS-1F6FEB?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS" />
+  <img src="https://img.shields.io/badge/MongoDB-1F6FEB?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-1F6FEB?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Flask-1F6FEB?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/REST%20APIs-1F6FEB?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/API%20Integration-1F6FEB?style=for-the-badge" alt="API Integration" />
+  <img src="https://img.shields.io/badge/Docker-1F6FEB?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/CI%2FCD-1F6FEB?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Deployment%20Automation-1F6FEB?style=for-the-badge" alt="Deployment Automation" />
+  <img src="https://img.shields.io/badge/Information%20Security-1F6FEB?style=for-the-badge" alt="Information Security" />
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-1F6FEB?style=for-the-badge&logo=git&logoColor=white" alt="Git & GitHub" />
 </p>
 
 ---
