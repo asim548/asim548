@@ -1,8 +1,11 @@
 <h1 align="center">Hi There! I am Asim. 👋</h1>
-<h3 align="center">Full Stack Developer | MERN Stack</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asim548&label=Profile%20views&color=0e75b6&style=flat" alt="asim548" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2500&pause=700&color=1F6FEB&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Specialist;Building+Scalable+Web+Applications" alt="Typing intro" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=asim548&label=Profile%20views&color=1F6FEB&style=flat" alt="asim548" />
 </p>
 
 <p align="center">
@@ -13,14 +16,14 @@
   📍 Islamabad, Pakistan &nbsp; • &nbsp; 📧 asimshehzad7065@gmail.com
 </p>
 
-## Connect with me
+<h2 align="center">Connect With Me</h2>
 
-<p>
+<p align="center">
   <a href="https://github.com/asim548">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://my-portfolio-alpha-kohl-69.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.fiverr.com/s/kLPammN">
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
@@ -33,7 +36,7 @@
   </a>
 </p>
 
-## Github Analysis
+<h2 align="center">Github Analysis</h2>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=asim548&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
@@ -44,9 +47,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asim548&theme=tokyonight" alt="GitHub streak" />
 </p>
 
-## Skills
+<h2 align="center">Skills</h2>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/MERN%20Stack-1F6FEB?style=for-the-badge&logo=mongodb&logoColor=white" alt="MERN Stack" />
   <img src="https://img.shields.io/badge/Full--Stack%20Development-1F6FEB?style=for-the-badge" alt="Full-Stack Development" />
   <img src="https://img.shields.io/badge/JavaScript-1F6FEB?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
