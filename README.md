@@ -9,7 +9,8 @@
 </p>
 
 <p align="center">
-  I build clean, responsive, and user-focused web applications.
+  Full-stack developer focused on clean architecture, secure implementation,
+  and scalable products that solve real-world problems.
 </p>
 
 <p align="center">
@@ -50,6 +51,10 @@
 <h2 align="center">Skills</h2>
 
 <p align="center">
+  <i>Technologies and tools I use to design, build, and ship production-ready applications.</i>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/MERN%20Stack-1F6FEB?style=for-the-badge&logo=mongodb&logoColor=white" alt="MERN Stack" />
   <img src="https://img.shields.io/badge/Full--Stack%20Development-1F6FEB?style=for-the-badge" alt="Full-Stack Development" />
   <img src="https://img.shields.io/badge/JavaScript-1F6FEB?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
@@ -74,6 +79,10 @@
   <img src="https://img.shields.io/badge/Git%20%26%20GitHub-1F6FEB?style=for-the-badge&logo=git&logoColor=white" alt="Git & GitHub" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0D1117,100:1F6FEB&section=footer" alt="Footer wave" />
+</p>
+
 ---
 
-<p align="center">Thanks for visiting my profile! ⭐</p>
+<p align="center"><b>Thanks for visiting my profile! ⭐</b></p>
