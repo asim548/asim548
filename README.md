@@ -40,12 +40,12 @@
 <h2 align="center">Github Analysis</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=asim548&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asim548&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats-rickstaa.vercel.app/api?username=asim548&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=asim548&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asim548&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=asim548&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 <h2 align="center">Skills</h2>
